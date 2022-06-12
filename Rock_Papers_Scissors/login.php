@@ -52,7 +52,7 @@ if ( $failure !== false ) {
 <p>
 For a password hint, view source and find a password hint
 in the HTML comments.
-<!-- Hint: The password is the 3  character language we are learning (all lower case) followed by 123. -->
+<!-- Hint: The password is php123. -->
 </p>
 </div>
 </body>
